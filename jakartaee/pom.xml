@@ -132,7 +132,7 @@
                 <version>2.13.0</version>
                 <configuration>
                     <appName>todo-jboss-app</appName>
-                    <resourceGroup>todo-app-group-reza</resourceGroup>
+                    <resourceGroup>todo-app-group-jdconf-rehearsal</resourceGroup>
                     <javaVersion>Java 17</javaVersion>
                     <webContainer>JBossEAP 8</webContainer>
                     <appSettings>

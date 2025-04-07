@@ -180,7 +180,7 @@
                 <version>2.13.0</version>
                 <configuration>
                     <appName>todo-tomcat-app</appName>
-                    <resourceGroup>todo-app-group-reza</resourceGroup>
+                    <resourceGroup>todo-app-group-jdconf-rehearsal</resourceGroup>
                     <javaVersion>Java 17</javaVersion>
                     <webContainer>Tomcat 10.1</webContainer>
                     <appSettings>
