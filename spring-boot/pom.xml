@@ -168,7 +168,7 @@
                 <version>2.13.0</version>
                 <configuration>
                     <appName>todo-spring-app</appName>
-                    <resourceGroup>todo-app-group-jdconf-rehearsal</resourceGroup>
+                    <resourceGroup>todo-app-group-jdconf2025-live</resourceGroup>
                     <javaVersion>Java 17</javaVersion>
                     <webContainer>Java SE</webContainer>
                     <appSettings>
